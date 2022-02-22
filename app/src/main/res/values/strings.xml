@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">To Do-ers</string>
+    <string name="to_do_list_app">To Do List by Lessca</string>
+    <string name="name_todo">Tugas hari ini!</string>
+</resources>
