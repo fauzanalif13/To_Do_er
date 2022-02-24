@@ -14,7 +14,8 @@
         <RelativeLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_weight="0">
+            android:layout_weight="0"
+            android:paddingBottom="5dp">
 
             <TextView
                 android:id="@+id/tv_tittle_todo"
@@ -29,6 +30,7 @@
                 android:textColor="@color/blue_young"
                 android:textSize="20dp"
                 android:textStyle="bold" />
+
             <ImageView
                 android:id="@+id/btn_edit_todo"
                 android:layout_width="20dp"
@@ -36,7 +38,7 @@
                 android:layout_alignParentEnd="true"
                 android:layout_marginTop="4dp"
                 android:layout_marginEnd="13dp"
-                android:src="@drawable/ic_baseline_more_vert_24"/>
+                android:src="@drawable/ic_baseline_more_vert_24" />
 
         </RelativeLayout>
 
