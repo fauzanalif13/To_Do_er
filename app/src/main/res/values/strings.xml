@@ -1,9 +1,11 @@
 <resources>
     <string name="app_name">To Do-ers</string>
-    <string name="to_do_list_app">To Do List by Lessca</string>
+    <string name="to_do_list_app">To Do-ers!</string>
     <string name="name_todo">Tugas hari ini!</string>
     <string name="btn_addTask">Tambah Tugas</string>
     <string name="btn_edit_todo">Sunting</string>
     <string name="btn_save_edit">Simpan</string>
     <string name="btn_cancel_todo">Batal</string>
+    <string name="btn_update_edit">Update</string>
+    <string name="btn_delete_todo">Hapus</string>
 </resources>
